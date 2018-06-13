@@ -1,6 +1,7 @@
 {
     "name": "xiaoyou/xiaoji",
     "description": "xiaoji",
+	"license": "MIT",
     "authors": [
         {
             "name": "jichangyou Smith",
@@ -10,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "wxencrypt\\": "src/"
+            "xiaoyou": "src/"
         }
     }
 }

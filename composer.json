@@ -7,5 +7,10 @@
             "email": "changyoulaop@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "wxencrypt\\": "src/"
+        }
+    }
 }

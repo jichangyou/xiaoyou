@@ -1,0 +1,11 @@
+{
+    "name": "xiaoyou/xiaoji",
+    "description": "xiaoji",
+    "authors": [
+        {
+            "name": "jichangyou Smith",
+            "email": "changyoulaop@163.com"
+        }
+    ],
+    "require": {}
+}

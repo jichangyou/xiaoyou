@@ -1,5 +1,5 @@
 <?php
- namespace xiaoyou;
+ namespace jichangyou\xiaoyou;
  class test {
      public function index()
      {

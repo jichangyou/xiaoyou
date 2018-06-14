@@ -2,6 +2,8 @@
     "name": "jichangyou/xiaoyou",
     "description": "xiaoji",
 	"license": "MIT",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
     "authors": [
         {
             "name": "jichangyou Smith",

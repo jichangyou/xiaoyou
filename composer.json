@@ -2,6 +2,7 @@
   "name": "jichangyou/xiaoyou",
   "description": "It`s a demo",
   "keywords": ["xiaoji","xiaoyou"],
+  "license": "MIT",
   "autoload": {
         "psr-4": {
             "Jichangyou\\Xiaoyou\\": "src/"
@@ -15,4 +16,3 @@
 		}
 	]
 }
-

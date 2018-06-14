@@ -5,14 +5,8 @@
 		"xiaoji",
 		"xiaoyou"
 	],
-  "type": "library",
-  "license": "MIT",
-    "authors": [
-        {
-            "name": "jichangyou Smith",
-            "email": "changyoulaop@163.com"
-        }
-    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {

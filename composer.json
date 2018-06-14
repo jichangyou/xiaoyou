@@ -6,7 +6,7 @@
         "psr-4": {
             "Jichangyou\\Xiaoyou\\": "src/"
         }
-    }
+    },
 	"require": {},
    "repositories": [
 		{

@@ -4,11 +4,10 @@
      "keywords": ["xiaoji","xiaoyou"],
     "type": "yii2-extension",
     "minimum-stability": "dev",	
-	"require": {
-		},
 	 "autoload": {
 			"psr-4": {
 				"Jichangyou\\Xiaoyou\\": "src/"
 			}
 		},
+	"require": {},
 }

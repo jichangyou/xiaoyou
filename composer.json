@@ -1,5 +1,5 @@
 {
-     "name": "jichangyou/xiaoyou",
+    "name": "jichangyou/xiaoyou",
      "description": "It`s a demo",
      "keywords": ["xiaoji","xiaoyou"],
     "type": "yii2-extension",
@@ -11,3 +11,5 @@
 		},
 	"require": {},
 }
+
+    

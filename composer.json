@@ -1,9 +1,12 @@
 {
     "name": "jichangyou/xiaoyou",
-    "description": "xiaoji",
-	"license": "MIT",
-	"minimum-stability": "dev",
-	"prefer-stable": true,
+    "description": "php-des library",
+	"keywords": [
+		"xiaoji",
+		"xiaoyou"
+	],
+  "type": "library",
+  "license": "MIT",
     "authors": [
         {
             "name": "jichangyou Smith",

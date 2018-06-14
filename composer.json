@@ -2,14 +2,13 @@
      "name": "jichangyou/xiaoyou",
      "description": "It`s a demo",
      "keywords": ["xiaoji","xiaoyou"],
+    "type": "yii2-extension",
+    "minimum-stability": "dev",	
+	"require": {
+		},
 	 "autoload": {
 			"psr-4": {
 				"Jichangyou\\Xiaoyou\\": "src/"
 			}
 		},
-    "type": "yii2-extension",
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.4.0",
-    },
 }

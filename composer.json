@@ -1,16 +1,18 @@
 {
-    "name": "jichangyou/xiaoyou",
-    "description": "php-des library",
-	"keywords": [
-		"xiaoji",
-		"xiaoyou"
-	],
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
+  "name": "jichangyou/xiaoyou",
+  "description": "It`s a demo",
+  "keywords": ["xiaoji","xiaoyou"],
+  "autoload": {
         "psr-4": {
             "Jichangyou\\Xiaoyou\\": "src/"
         }
     }
+	"require": {},
+   "repositories": [
+		{
+			"type": "composer",
+			"url": "https://asset-packagist.org"
+		}
+	]
 }
+

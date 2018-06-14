@@ -1,15 +1,13 @@
 {
-    "name": "jichangyou/xiaoyou",
-     "description": "It`s a demo",
-     "keywords": ["xiaoji","xiaoyou"],
-    "type": "yii2-extension",
-    "minimum-stability": "dev",	
-	 "autoload": {
-			"psr-4": {
-				"Jichangyou\\Xiaoyou\\": "src/"
-			}
-		},
+  "name": "jichangyou/xiaoyou",
+  "description": "It`s a demo",
+  "keywords": ["xiaoji","xiaoyou"],
+  "license": "MIT",
+  "autoload": {
+        "psr-4": {
+            "Jichangyou\\Xiaoyou\\": "src/"
+        }
+    },
 	"require": {},
 }
 
-    
